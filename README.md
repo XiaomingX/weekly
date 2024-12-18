@@ -1,6 +1,10 @@
 # nice-juejin-article
 ## 精选的掘金文章汇总[2024.11月-12月]
 
+### RAW文章
+ - [RethinkDB为什么会倒闭失败](https://mp.weixin.qq.com/s/hqNZlRUjqjR2bkJaHKnItw?token=1256770637&lang=en_US)
+ - [中型创业公司陷阱:为何总很忙但又没效果](https://mp.weixin.qq.com/s/2Avl5Vxsz8fV2lLLOR61cw?token=1256770637&lang=en_US)
+
 ### 1. **2025 年技术展望**
 - [2025年的RAG技术发展趋势与演进](https://juejin.cn//post/7447080291569156108)
 - [2025年前端技术趋势展望](https://juejin.cn//post/7446707125466152996)
