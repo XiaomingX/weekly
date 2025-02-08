@@ -1,5 +1,4 @@
-# nice-juejin-article
-## 精选的掘金文章汇总[2024.11月-12月]
+# 精选的文章汇总[2024.11月-12月]
 
 ### RAW文章
  - [RethinkDB为什么会倒闭失败](https://mp.weixin.qq.com/s/hqNZlRUjqjR2bkJaHKnItw?token=1256770637&lang=en_US)
